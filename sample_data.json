@@ -1,0 +1,12 @@
+{
+  "perfumes": [
+    {"id": "PERFUME-DEMO-001", "name": "木质样例一", "brand": "Demo Atelier", "productCode": "DEMO-001"},
+    {"id": "PERFUME-DEMO-002", "name": "柑橘样例二", "brand": "Demo Atelier", "productCode": "DEMO-002"}
+  ],
+  "reviewers": [
+    {"externalUserId": "external-demo-001", "reviewerId": "REVIEWER-DEMO-001"}
+  ],
+  "reviews": [
+    {"id": "REVIEW-DEMO-001", "reviewerId": "REVIEWER-DEMO-001", "perfumeId": "PERFUME-DEMO-001", "text": "干燥木质感，扩散适中。", "score": 4, "tags": ["木质", "干燥"], "aiStatus": "DONE", "moderationStatus": "APPROVED"}
+  ]
+}
