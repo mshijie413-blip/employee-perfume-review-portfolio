@@ -1,0 +1,12 @@
+{
+  "name": "employee-perfume-review-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test test_review_domain.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
